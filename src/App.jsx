@@ -314,8 +314,8 @@ const Footer = () => (
     
     
     <div className="icons d-flex justify-content-center gap-5 pb-4">
-      <a className='text-white' href="mailto:deepikavenkatesan32@gmail.com"><ion-icon name="mail-outline" className="text-white" style={{ width: 40, height: 40, cursor: 'pointer' }} /></a>
-      <a className='text-white' href="https://www.linkedin.com/in/sathiyapriya-venkatesan-9a41a127b/"><ion-icon name="logo-linkedin" className="text-white" style={{ width: 40, height: 40, cursor: 'pointer' }} /></a>
+      <a className='text-white' href="mailto:anandkorasikha@gmail.com"><ion-icon name="mail-outline" className="text-white" style={{ width: 40, height: 40, cursor: 'pointer' }} /></a>
+      <a className='text-white' href="www.linkedin.com/in/korasikha-anand-kumar-73200b248/"><ion-icon name="logo-linkedin" className="text-white" style={{ width: 40, height: 40, cursor: 'pointer' }} /></a>
       <a className='text-white' href="https://github.com/Deepi-2704"><ion-icon name="logo-github" className="text-white" style={{ width: 40, height: 40, cursor: 'pointer' }} /></a>
     </div>
   </footer>
